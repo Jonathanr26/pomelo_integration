@@ -45,6 +45,6 @@ El backend está desarrollado con Node.js y utiliza Axios para realizar solicitu
 
 1. **Instalación de Dependencias:** Clona el repositorio e instala las dependencias con `npm install`.
 2. **Variables de Entorno:** Configura las variables de entorno necesarias en un archivo `.env` incluyendo `BASE_URL`, `CLIENT_ID`, `CLIENT_SECRET`, `AFFINITY_GROUP_ID`, entre otras.
-3. **Ejecución del Proyecto:** Inicia la aplicación frontend con `npm start` y el servidor backend con el comando adecuado (por ejemplo, `node server.js`).
+3. **Ejecución del Proyecto:** Inicia la aplicación frontend con `npm start` y el servidor backend con el comando `npm start`).
 
 Este proyecto proporciona una base sólida para integraciones adicionales con la API de Pomelo y puede ser extendido según las necesidades del usuario.
